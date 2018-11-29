@@ -1,10 +1,10 @@
 # Deep One-Class Classification
+**Update: We now also have implemented Deep SVDD in [PyTorch](https://pytorch.org) which can be found at 
+[https://github.com/lukasruff/Deep-SVDD-PyTorch](https://github.com/lukasruff/Deep-SVDD-PyTorch)**
+
 This repository provides the implementation of the *soft-boundary Deep SVDD* and *one-class Deep SVDD* method we used
 to perform the experiments for our ”Deep One-Class Classification” ICML 2018 paper. The implementation uses the  
 [Theano](http://deeplearning.net/software/theano/) and [Lasagne](https://lasagne.readthedocs.io/en/latest/) libraries.
-
-**Update: We now also have implemented Deep SVDD in [PyTorch](https://pytorch.org).**
-**[https://github.com/lukasruff/Deep-SVDD-PyTorch](https://github.com/lukasruff/Deep-SVDD-PyTorch)**
 
 ## Citation and Contact
 You find the PDF of the Deep One-Class Classification ICML 2018 paper at 
